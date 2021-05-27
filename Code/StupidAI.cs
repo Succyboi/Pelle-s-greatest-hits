@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* A component that contains an experimental racing car AI in Unity3D.
+* 
+* https://unity.com/
+*/
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;

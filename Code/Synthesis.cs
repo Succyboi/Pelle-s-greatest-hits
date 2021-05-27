@@ -1,3 +1,9 @@
+/*
+* A bunch of classes for doing real-time audio synthesis in Unity3D.
+* 
+* https://unity.com/
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,12 @@
+/*
+* A bunch of classes for doing peer-to-peer networking in Unity3D.
+* This code also powers FroggieChat.
+* 
+* https://unity.com/
+* https://stupidplusplus.itch.io/froggychat
+*/
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
