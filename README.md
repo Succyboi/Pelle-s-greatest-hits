@@ -10,6 +10,6 @@ In case you were wondering, this repository is just a collection of some of the 
  ⊂　 | 　　　・゜+.
  しーＪ　　　°。+ *´¨)
 	  .· ´¸.·*´¨) ¸.·*¨)
-  (¸.·´ (¸.·’* Have fun! * ⛧
+  	(¸.·´ (¸.·’* Have fun! * ⛧
 ```
 
